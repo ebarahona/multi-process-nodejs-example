@@ -29,7 +29,7 @@
     "super-request": "1.1.0"
   },
   "dependencies": {
-    "@risingstack/trace": "2.36.0",
+    "@risingstack/trace": "3.12.2",
     "dotenv": "2.0.0",
     "es6-promisify": "5.0.0",
     "ioredis": "2.4.2",
@@ -38,7 +38,7 @@
     "koa-router": "5.4.0",
     "qs": "6.3.0",
     "tortoise": "1.0.1",
-    "twitter": "1.7.0",
+    "twitter": "1.7.1",
     "winston": "2.3.0"
   },
   "pre-commit": [
