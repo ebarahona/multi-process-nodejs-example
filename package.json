@@ -34,11 +34,11 @@
     "es6-promisify": "5.0.0",
     "ioredis": "2.4.2",
     "joi": "10.0.5",
-    "koa": "1.2.4",
+    "koa": "1.4.1",
     "koa-router": "5.4.0",
     "qs": "6.3.0",
     "tortoise": "1.0.1",
-    "twitter": "1.7.0",
+    "twitter": "1.7.1",
     "winston": "2.3.0"
   },
   "pre-commit": [
