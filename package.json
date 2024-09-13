@@ -35,7 +35,7 @@
     "ioredis": "2.4.2",
     "joi": "10.0.5",
     "koa": "1.2.4",
-    "koa-router": "5.4.0",
+    "koa-router": "13.0.1",
     "qs": "6.3.0",
     "tortoise": "1.0.1",
     "twitter": "1.7.0",
